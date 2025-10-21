@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# Disallow nothing (we want full crawl)
+Sitemap: https://www.avocatmurarasu.ro/public/sitemap.xml
