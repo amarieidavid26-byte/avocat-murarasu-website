@@ -1,1 +1,2 @@
-/pages/homepage  /
+# Removed circular redirect that caused infinite loop
+# /pages/homepage should NOT redirect to / (it's the destination page)
