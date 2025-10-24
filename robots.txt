@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Disallow backup and development directories
+Disallow: /backup-headers/
+Disallow: /*backup*/
+Disallow: /*__backup*/
+Disallow: /.git/
+Disallow: /node_modules/
+Disallow: /*.py$
+
+# Allow CSS, JS, and images
+Allow: /css/
+Allow: /js/
+Allow: /public/images/
+
+# Sitemap location
+Sitemap: https://www.avocatmurarasu.ro/sitemap.xml
