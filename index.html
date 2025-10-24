@@ -3,26 +3,74 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Avocat Murarașu - Servicii Juridice Profesionale</title>
-    <link rel="stylesheet" href="css/main.css">
-    <meta http-equiv="refresh" content="0; url=pages/homepage.html">
-  
-  <script type="module" src="https://static.rocket.new/rocket-web.js?_cfg=https%3A%2F%2Favocatmur1772back.builtwithrocket.new&_be=https%3A%2F%2Fapplication.rocket.new&_v=0.1.9"></script>
-  <script type="module" src="https://static.rocket.new/rocket-shot.js?v=0.0.1"></script>
-  </head>
-<body>
-    <div style="text-align: center; padding: 50px; font-family: Arial, sans-serif;">
-        <h1>Avocat Murarașu</h1>
-        <p>Vă redirectăm către pagina principală...</p>
-        <p>Dacă nu sunteți redirectat automat, <a href="pages/homepage.html">faceți clic aici</a>.</p>
-    </div>
-    
-    <script>
-        // Fallback redirect in case meta refresh doesn't work
-        setTimeout(function() {
-            window.location.href = 'pages/homepage.html';
-        }, 100);
+
+    <!-- Immediate Meta Refresh Redirect (0 seconds) -->
+    <meta http-equiv="refresh" content="0; url=/pages/homepage.html">
+
+    <!-- SEO Meta Tags -->
+    <title>Avocat Fălticeni | Andreea Murarașu - Servicii Juridice Complete Suceava</title>
+    <meta name="description" content="Avocat Andreea Murarașu - 15 ani experiență în Fălticeni și Suceava. Drept civil, familie, penal. Baroul Suceava. Consultație rapidă ☎️ +40 747 926 723">
+    <meta name="keywords" content="avocat Fălticeni, servicii juridice Suceava, avocat murarașu, cabinet avocatură">
+    <link rel="canonical" href="https://www.avocatmurarasu.ro/pages/homepage.html">
+
+    <!-- JavaScript Redirect (instant fallback) -->
+    <script type="text/javascript">
+        window.location.replace("/pages/homepage.html");
     </script>
-<script id="dhws-dataInjector" src="/public/dhws-data-injector.js"></script>
+
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+        .redirect-message {
+            text-align: center;
+            padding: 2rem;
+        }
+        .spinner {
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #C4A053;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1rem;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        a {
+            color: #C4A053;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <!-- Fallback Content (only visible if JavaScript is disabled AND meta refresh fails) -->
+    <div class="redirect-message">
+        <div class="spinner"></div>
+        <h1>Redirecting...</h1>
+        <p>Vă redirecționăm către pagina principală.</p>
+        <p>Dacă nu sunteți redirecționat automat, <a href="/pages/homepage.html">click aici</a>.</p>
+    </div>
+
+    <!-- Noscript Fallback Link -->
+    <noscript>
+        <meta http-equiv="refresh" content="0; url=/pages/homepage.html">
+        <div style="text-align: center; padding: 2rem;">
+            <p>Vă rugăm să activați JavaScript sau <a href="/pages/homepage.html">click aici pentru a continua</a>.</p>
+        </div>
+    </noscript>
 </body>
 </html>
