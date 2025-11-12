@@ -1,129 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage (Root) -->
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/homepage</loc>
-    <lastmod>2025-01-23</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://avocatandreeamurarasu.com/</loc>
+    <lastmod>2025-11-12</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
+
+  <!-- Main Pages -->
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/about</loc>
-    <lastmod>2025-01-23</lastmod>
+    <loc>https://avocatandreeamurarasu.com/pages/homepage.html</loc>
+    <lastmod>2025-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://avocatandreeamurarasu.com/pages/about.html</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/contact</loc>
-    <lastmod>2025-01-23</lastmod>
+    <loc>https://avocatandreeamurarasu.com/pages/contact.html</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/practice_areas</loc>
-    <lastmod>2025-01-23</lastmod>
+    <loc>https://avocatandreeamurarasu.com/pages/practice_areas.html</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/domenii/drept-civil</loc>
-    <lastmod>2025-01-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://avocatandreeamurarasu.com/pages/blog.html</loc>
+    <lastmod>2025-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
+
+  <!-- Practice Area Pages -->
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/domenii/drept-familie</loc>
-    <lastmod>2025-01-23</lastmod>
+    <loc>https://avocatandreeamurarasu.com/pages/domenii/drept-civil.html</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/domenii/drept-penal</loc>
-    <lastmod>2025-01-23</lastmod>
+    <loc>https://avocatandreeamurarasu.com/pages/domenii/drept-familie.html</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/domenii/executari-silite</loc>
-    <lastmod>2025-01-23</lastmod>
+    <loc>https://avocatandreeamurarasu.com/pages/domenii/drept-penal.html</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/domenii/drept-imobiliar</loc>
-    <lastmod>2025-01-23</lastmod>
+    <loc>https://avocatandreeamurarasu.com/pages/domenii/executari-silite.html</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/domenii/dreptul-muncii</loc>
-    <lastmod>2025-01-23</lastmod>
+    <loc>https://avocatandreeamurarasu.com/pages/domenii/drept-imobiliar.html</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/domenii/contracte</loc>
-    <lastmod>2025-01-23</lastmod>
+    <loc>https://avocatandreeamurarasu.com/pages/domenii/dreptul-muncii.html</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/domenii/societati-comerciale</loc>
-    <lastmod>2025-01-23</lastmod>
+    <loc>https://avocatandreeamurarasu.com/pages/domenii/contracte.html</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/domenii/migratie-azil</loc>
-    <lastmod>2025-01-23</lastmod>
+    <loc>https://avocatandreeamurarasu.com/pages/domenii/societati-comerciale.html</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/domenii/proprietate-intelectuala</loc>
-    <lastmod>2025-01-23</lastmod>
+    <loc>https://avocatandreeamurarasu.com/pages/domenii/migratie-azil.html</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/domenii/drept-bancar-si-fiscal</loc>
-    <lastmod>2025-01-23</lastmod>
+    <loc>https://avocatandreeamurarasu.com/pages/domenii/proprietate-intelectuala.html</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/domenii/cetatenie</loc>
-    <lastmod>2025-01-23</lastmod>
+    <loc>https://avocatandreeamurarasu.com/pages/domenii/drept-bancar-si-fiscal.html</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/domenii/vize-permise-sedere</loc>
-    <lastmod>2025-01-23</lastmod>
+    <loc>https://avocatandreeamurarasu.com/pages/domenii/cetatenie.html</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/domenii/amenzi-contraventii</loc>
-    <lastmod>2025-01-23</lastmod>
+    <loc>https://avocatandreeamurarasu.com/pages/domenii/vize-permise-sedere.html</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/domenii/accidente-auto</loc>
-    <lastmod>2025-01-23</lastmod>
+    <loc>https://avocatandreeamurarasu.com/pages/domenii/amenzi-contraventii.html</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/domenii/asociatii-fundatii</loc>
-    <lastmod>2025-01-23</lastmod>
+    <loc>https://avocatandreeamurarasu.com/pages/domenii/accidente-auto.html</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>https://avocatandreeamurarasu.com/pages/domenii/consultanta-negocieri</loc>
-    <lastmod>2025-01-23</lastmod>
+    <loc>https://avocatandreeamurarasu.com/pages/domenii/asociatii-fundatii.html</loc>
+    <lastmod>2025-11-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://avocatandreeamurarasu.com/pages/domenii/consultanta-negocieri.html</loc>
+    <lastmod>2025-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://avocatandreeamurarasu.com/pages/domenii/contestare-acte-igi.html</loc>
+    <lastmod>2025-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
